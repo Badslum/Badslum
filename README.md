@@ -19,7 +19,7 @@ I value simple designs, explicit error handling strategies, and automation. My i
 - **German:** C2  
 - **Dutch:** B2  
 - **Spanish:** B1 _(a bit rusty)_ 
-- **Rusiian & Italian:** WIP :D
+- **Russian & Italian:** WIP :D
 
 ---
 

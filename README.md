@@ -1,16 +1,18 @@
-
 # Bastian Roth — Fullstack Developer
 
-Hi, I'm Bastian (GitHub: **Badslum**). I build pragmatic, maintainable software with a focus on backend systems and reliability. I enjoy clean architectures, clear responsibilities, and tooling that makes developers' lives easier.
+Hi, I'm Bastian (GitHub: **Badslum**).
+I build reliable, maintainable software with a focus on backend systems and clear architectural boundries. I like to understand how complex systems behave and design software that stays simple even when the domain isn’t. The closer I am to my bits and bytes, the happier I am.
 
 ---
 
 ## About Me
-- **Profession:** Fullstack Developer  
+- **Profession:** Fullstack Developer
 - **Favorite Programming Language:** Go (Golang)
-- **Current Role:** Application Developer @ b4value.net GmbH (Kaiserslautern)
+- **Current Role:** Software Developer @ b4value.net GmbH (Kaiserslautern)
 
-I value simple designs, explicit error handling strategies, and automation. My ideas are plentiful; some are in active development, while others are being refined before publication. Due to confidentiality and past deletions, I currently have no public repositories—but I’m working on releasing selected personal projects soon.
+I value simple designs, explicit error handling strategies, and automation. My ideas are plentiful with some in active development. Other Ideas are being refined before publication.
+My work often revolves around backend services, performance‑critical components, and tooling that improves developer workflows.
+I’m currently preparing several personal projects for public release, including multi‑language engine experiments and systems‑level tooling.
 
 ---
 
@@ -25,27 +27,32 @@ I value simple designs, explicit error handling strategies, and automation. My i
 
 ## CV / Experience
 
-**Education**
+### **Education**
 - **Gymnasium am Rittersberg** — Highschool (2013–2020)  
 - **BBS 2 Kaiserslautern** — Business Highschool (2020–2023)  
-- **DHBW Mannheim** — Wirtschaftsinformatik (2023–2025, without graduation)
+- **DHBW Mannheim** — Wirtschaftsinformatik (2023–2025)
 - **BBS1 Kaiserslautern** - Apprenticeship (2025-Present)
 
-**Professional**
+### **Professional**
 - **Hays AG (Mannheim)** — SAP Consultant (2023–2025)  
 - **b4value.net GmbH (Kaiserslautern)** — Application Developer (2025–Present)
 
 ---
 
 ## Interests & Focus
-- Go-based backends: batching, background workers, resilient error-handling
-- Practical tooling: modular error handlers, logging modes, recoverable goroutines
-- Clean interfaces: function-by-function responsibilities and simple prompts
+- Systems engineering around orchestration, concurrency, resource management
+- Low‑level & performance‑oriented development
+- clean, explicit architectures
+- multi language systems
+- Clean interfaces and APIs
+- Utilities for development & DevOps
 
 ---
 
 ## Projects (coming soon)
-I’m preparing public releases of selected internal tools and personal projects. If you’re curious, feel free to reach out.
+- MineOps-Benchmark: Showcaseing a simplistic approach on Kubernetes and load distribution
+- Company KPI Research Tool, using Gemini as the core search engine
+- many other ideas
 
 ---
 

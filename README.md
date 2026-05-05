@@ -61,6 +61,7 @@ I’m currently preparing several personal projects for public release, includin
   - An automated, loadbalancing, Kubernetes-lite server app working with smaller components locally.
   - A benchmarking pipeline for minesweeper engines, stretching over ~20 programming languages.
   - A template based frontend engine eliminating hardcoded HTML, CSS and JavaScript logic.
+  
   Currently **planned publication** at the end of **August 2026** and a long-term roadmap extending into **Q4 2029**
   For detailed updates see the roadmap upon publication or feel free to reach out.
 
@@ -73,7 +74,7 @@ I’m currently preparing several personal projects for public release, includin
   Will also be integrated into another project that I currently have in planning.
   **No planned release date yet.** It will be released eventually, but currently has a lower priority until I finished other projects beforehand.
   
-- ### many other ideas ###
+- ### Many other ideas ###
   These range from utility tools like the QR-Code scanner or small applications over to game engines, games and even office applications.
   Feel always free to reach out. On demand I might prioritize one idea over another.
 

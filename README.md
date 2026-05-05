@@ -69,7 +69,7 @@ I’m currently preparing several personal projects for public release, includin
   Uses Gemini as the core search engine. Classic REST API / database centric design with simplistic frontend and background scheduler.
   **Planned release** somewhen later in **2026**.
 
-- ### QR-Code Scanner & analyzer###
+- ### QR-Code Scanner & analyzer ###
   Basic security tool to scan QR-Codes.
   Will also be integrated into another project that I currently have in planning.
   **No planned release date yet.** It will be released eventually, but currently has a lower priority until I finished other projects beforehand.

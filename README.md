@@ -1,4 +1,4 @@
-# Bastian Roth — Fullstack Developer
+# Bastian Roth — Software Developer / System Engineer
 
 I’m Bastian (GitHub: **Badslum**), a systems‑oriented developer with a low‑level mindset and a strong focus on clarity, predictability and performance. I like to understand how entire systems behave before diving into individual components, because most problems only make sense when viewed in context. Once I see the whole picture, I design software that stays simple, explicit, and maintainable even as complexity grows.
 

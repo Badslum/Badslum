@@ -12,8 +12,8 @@ In general, the closer I am to my bits and bytes, the happier I am.
 
 ## About Me
 - **Profession:** Fullstack Developer
-- **Favorite Programming Languages:** Go (Golang) & Ada
-- **Current Role:** Software Developer @ b4value.net GmbH (Kaiserslautern)
+- **Favorite Programming Languages:** Go & Ada
+- **Current Role:** System / Performance Engineer @ b4value.net GmbH (Kaiserslautern)
 
 I value simple designs, explicit error handling strategies, and automation. My ideas are plentiful with some in active development. Other Ideas are being refined before publication.
 My work often revolves around backend services, performance‑critical components, and tooling that improves developer workflows.
@@ -57,25 +57,14 @@ I’m currently preparing several personal projects for public release, includin
 ## Projects (coming soon)
 
 - ### MineOps-Benchmark ###
-  A proof of concept of 3 projects:
-  - An automated, loadbalancing, Kubernetes-lite server app working with smaller components locally.
-  - A benchmarking pipeline for minesweeper engines, stretching over ~20 programming languages.
-  - A template based frontend engine eliminating hardcoded HTML, CSS and JavaScript logic.
-  
-  Currently **planned publication** at the end of **August 2026** and a long-term roadmap extending into **Q4 2029**
-  For detailed updates see the roadmap upon publication or feel free to reach out.
+  - A benchmarking and learning center for minesweeper engines, stretching over ~20 programming languages.
 
 - ### Company KPI Research Tool ###
   Uses Gemini as the core search engine. Classic REST API / database centric design with simplistic frontend and background scheduler.
   **Planned release** somewhen later in **2026**.
-
-- ### QR-Code Scanner & analyzer ###
-  Basic security tool to scan QR-Codes.
-  Will also be integrated into another project that I currently have in planning.
-  **No planned release date yet.** It will be released eventually, but currently has a lower priority until I finished other projects beforehand.
   
-- ### Many other ideas ###
-  These range from utility tools like the QR-Code scanner or small applications over to game engines, games and even office applications.
+- ### MANY other ideas ###
+  These range from utility tools like QR-Code scanners, scripts and tools to game engines, games, storage management tools and even an office suite.
   Feel always free to reach out. On demand I might prioritize one idea over another.
 
 ---
